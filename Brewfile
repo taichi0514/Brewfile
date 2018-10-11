@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew composer
 brew gdbm
 brew gettext
 brew git
@@ -63,6 +64,8 @@ cask vlc
 
 # App Store applications
 appstore 405843582 Alfred (1.2)
-appstore 539883307 LINE (5.10.0)
+appstore 508368068 Get Plain Text (2.0)
+appstore 539883307 LINE (5.10.1)
 appstore 441258766 Magnet (2.4)
+appstore 518830108 Memory Cleaner (3.0.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
