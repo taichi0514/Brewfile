@@ -2,20 +2,21 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
 brew composer
 brew gdbm
 brew gettext
 brew git
-brew heroku
 brew icu4c
 brew libidn2
 brew libunistring
 brew libyaml
 brew mas
-brew node
+brew node-build
 brew openssl
 brew pcre2
 brew perl
+brew pkg-config
 brew python
 brew readline
 brew ruby
@@ -64,8 +65,13 @@ cask vlc
 
 # App Store applications
 appstore 405843582 Alfred (1.2)
+appstore 682658836 GarageBand (10.3.1)
 appstore 508368068 Get Plain Text (2.0)
+appstore 408981434 iMovie (10.1.9)
+appstore 0 Install macOS Mojave (14.0.22)
+appstore 409183694 Keynote (8.2)
 appstore 539883307 LINE (5.10.1)
 appstore 441258766 Magnet (2.4)
-appstore 518830108 Memory Cleaner (3.0.1)
+appstore 409203825 Numbers (5.2)
+appstore 409201541 Pages (7.2)
 appstore 414855915 WinArchiver Lite (2.5.3)
