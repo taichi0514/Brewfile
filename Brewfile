@@ -2,10 +2,12 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew anyenv
 brew apr
 brew apr-util
 brew aspell
 brew autoconf
+brew bash-completion
 brew boost
 brew brotli
 brew c-ares
@@ -42,16 +44,17 @@ brew mas
 brew mcrypt
 brew mhash
 brew mysql
+brew mysql@5.7
 brew ncurses
-brew ndenv
 brew nghttp2
 brew node
 brew node-build
-brew openssl
+brew openssl@1.1
 brew pcre
 brew pcre2
 brew perl
 brew pkg-config
+brew protobuf@3.7
 brew python
 brew rbenv
 brew readline
@@ -66,6 +69,7 @@ brew wget
 brew xz
 brew yarn
 brew zsh
+brew zsh-completions
 
 tap homebrew/cask-versions
 cask sequel-pro-nightly
@@ -123,14 +127,16 @@ cask visual-studio-code
 # App Store applications
 appstore 508368068  (2.0)
 appstore 405843582 Alfred (1.2)
-appstore 490461369 Bandwidth+ (1.15)
-appstore 682658836 GarageBand (10.3.3)
-appstore 408981434 iMovie (10.1.13)
-appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.19.0)
-appstore 441258766 Magnet (2.4.4)
-appstore 409203825 Numbers (6.2)
-appstore 409201541 Pages (8.2)
+appstore 490461369 Bandwidth+ (1.17)
+appstore 682658836 GarageBand (10.3.4)
+appstore 408981434 iMovie (10.1.14)
+appstore 409183694 Keynote (9.2.1)
+appstore 539883307 LINE (5.21.2)
+appstore 441258766 Magnet (2.4.5)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
+appstore 413449473 ReceiptKeeper (1.1.3)
 appstore 1435106536 Symbolic Linker (1.2)
 appstore 485812721 TweetDeck (3.16.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
+appstore 497799835 Xcode (11.3)
